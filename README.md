@@ -6,3 +6,9 @@ Example for creating repo locally from vs code
     Change content and use git add
 #3     
     Commit -m
+#4
+    git remote add origin + https link +
+#5
+    git remote -v(fetching)
+#6
+    git push origin master(taking master copyrights?)
