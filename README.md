@@ -11,4 +11,4 @@ Example for creating repo locally from vs code
 #5
     git remote -v(fetching)
 #6
-    git push origin master(taking master copyrights?)
+    git push -u(this helps to obtain master copyrights?) origin master(taking master copyrights?)
